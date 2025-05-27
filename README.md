@@ -6,6 +6,10 @@
     <title>Efua Osagiede | Profile</title>
 </head>
 <body>
+   <h1>Efua Osagiede</h1>
+   <h4>Shimmering-Siren</h4>
+<img src="Screenshot 2025-01-22 135136.png" alt=Student wearing a dark hoodie in a classroom setting with a whiteboard in the background and a cartoon drawing with a question mark partially visible behind them; the atmosphere appears casual and relaxed>
+
     <! -- Your name -- >
     <h1>Efua Osagiede</h1> 
     <! -- Your title or role (e.g., Student, Developer, etc. ) -- >
@@ -13,7 +17,7 @@
     <! -- Your age -- >
     <h4>11+</h4>
     <! -- Your favorite color or game -- >
-    <h4>Black and Gold</h4>
+    <h4>Black and Gold are my fav color and my fav game are Roblox</h4>
     <! -- What you love doing (drawing, reading, dancing, etc. ) -- >
     <p>I love the dark things; I love dogs and parrots.</p>
     <! -- Your favorite food or drink -- >
@@ -32,5 +36,7 @@
         <p>I want to build a game one day.</p>
     <! -- Anything else fun about you !-- >
      <p>I love to play with my friends and I love to play video games.</p>
+     <! -- My git hub account -- >
+     <h3> <a href="https://github.com/Shimmering-Siren">My gitub account</a></h3>
 </body>
 </html>
