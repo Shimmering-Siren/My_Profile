@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Profile</title>
+</head>
+<body>
+    <! -- Your name -- >
+    <h1>Efua Osagiede</h1> 
+    <! -- Your title or role (e.g., Student, Developer, etc. ) -- >
+    <h3> Student </h3>
+    <! -- Your age -- >
+    <h4>11+</h4>
+    <! -- Your favorite color or game -- >
+    <h4>Black and Gold</h4>
+    <! -- What you love doing (drawing, reading, dancing, etc. ) -- >
+    <p>I love the dark things; I love dogs and parrots.</p>
+    <! -- Your favorite food or drink -- >
+    <p>My favorite food is Jollof rice and my favorite drink is Fanta.</p>
+    <! -- Your favorite animal -- >
+    <p>My favorite animal is a dog.</p>
+    <! -- Your favorite book or movie -- >  
+    <p>My favorite book is "Animal farm" and my favorite movie is "The Lion King".</p>
+    <! -- Your favorite hobby or activity -- >   
+     <p>My favorite hobby is gaming </p>
+    <! -- Your favorite subject in school -- >  
+     <p>My favorite subject in school is Literture.</p>
+    <! -- What you hope to learn in this coding class -- >
+     <p>I hope to learn how to build a game that becomes sucessful.</p>
+    <! -- What you want to build one day -- >
+        <p>I want to build a game one day.</p>
+    <! -- Anything else fun about you !-- >
+     <p>I love to play with my friends and I love to play video games.</p>
+</body>
+</html>
